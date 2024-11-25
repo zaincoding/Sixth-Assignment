@@ -31,9 +31,9 @@ export default function Header() {
           </div>
         </div>      
 <div   className=' bg-[#FFFFFF]  width-[428px] h-[72px] flex item-center justify-between border-[1px] border-[#000000]
-     py-4  px-3 md:px-36 md:bg-[rgb(247,247,247,1)] ] md:border-[1px] md:border-[#676767]'>
+     py-4  px-3 md:px-20 md:bg-[rgb(247,247,247,1)] ] md:border-[1px] md:border-[#676767]'>
   
-       <Image  src='/images/Logo.PNG'  alt="Logo" width={130} height={41}/>
+       <Image  src='/images/logo.PNG'  alt="Logo" width={130} height={41}/>
  
 <div  className='text-xl  font-bold  right-0'></div>
 <button className='block md:hidden' onClick={ () =>setIsOpen(!isOpen)}>
@@ -51,7 +51,7 @@ export default function Header() {
 
   <div className={`${
               isOpen ? "space-y-4" : "flex space-x-4"
-            } md:flex md:space-x-14 md:space-y-0 md:mr-[200px]`}
+            } md:flex md:space-x-7 md:space-y-0 md:mr-[200px]`}
           >
 
 <span className='block'><Link href="./"  >Home</Link></span>
@@ -62,12 +62,12 @@ export default function Header() {
              <span className='block'><Link href="./">Testimonial</Link></span>
 </div>
 
-<div className='md:flex md:items-center md:space-x-4 md:justify-between md:space-y-0 space-y-3'>
+<div className='md:flex md:items-center md:space-x-0 md:justify-between md:space-y-0 space-y-3 '>
             {/* <span className='md:w-[221px] md:justify-between md:space-x-7 md:space-y-0 space-y-4'> */}
-             <span className='block'><button  className='w-[80px] rounded-[5px] h-[40px] border-[1px] border-[#676767]
+             <span className='block'><button  className='w-[80px]  rounded-[5px] h-[40px] border-[1px] border-[#676767]
             '>Login</button></span>
             <span className='block'>
-             <button className=' w-[80] md:w-[95px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
+             <button className=' w-[80] md:w-[95px] mx-[100px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
             </span>
 
 
