@@ -48,7 +48,7 @@ export default function Hero(){
 </div>
 
 {/* Company logos */}
-<div  className='md:w-full md:h-[228px]  md:flex justify-between hidden'>
+<div  className='md:w-[1280] md:h-[228px]  md:flex justify-between hidden'>
 <div className='w-1/4'>
   <p className='md:text-[22px] font-bold' style={{fontFamily: 'Roboto'}}><span className='block'>Trusted by 200+ companies</span> worldwide</p>
 
