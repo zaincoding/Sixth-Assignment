@@ -39,7 +39,7 @@ export default function Hero(){
 </div>
 <div className='w-[428px] h-[239px] bg-[#ffffff] md:hidden'>
   <div className='w-[327px] text-[18px] font-bold leading-[27px]' style={{ fontFamily: 'Roboto' }}>
-    <p>Trusted by the world's best companies social proof to build credibility</p>
+    <p>Trusted by the world&apos;s best companies social proof to build credibility</p>
   </div>
 
   <div>
@@ -601,7 +601,7 @@ export default function Hero(){
 <div className='flex space-x-[200px]'>
 <div className='w-[362] h[321] border-[#000] border-[1px] justify-center hover:bg-gray-200'>
   <Image src='/images/vst/Image.PNG' alt='Vector' width={116} height={18.89}  className='my-[20px]'/>
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+  &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;
   
   <div className='relative my-[20px]'>
   <p className='mx-[130px] w-[200px]  my-[20px] absolute'>James Nduku   <span className='block'>Software Developer</span></p>   
@@ -613,7 +613,7 @@ export default function Hero(){
 
 <div className='w-[362] h[321] border-[#000] border-[1px] hidden md:block hover:bg-gray-200'>
 <Image src='/images/vst/Image.PNG' alt='Vector' width={116} height={18.89} className='my-[20px]' />
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+  &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;
 
   <div className='relative my-[20px]'>
 <p  className='w-[150px] mx-[150px] my-[20px] absolute'> Erick Kipkemboi <p>Scrum Master</p></p>
@@ -624,7 +624,7 @@ export default function Hero(){
 
 <div className='w-[362] h[321] border-[#000] border-[1px] hidden md:block hover:bg-gray-200'>
 <Image src='/images/vst/Image.PNG' alt='Vector' width={116} height={18.89} className='my-[30px]'/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;
 
 <div className='relative my-[20]'>
 
