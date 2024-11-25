@@ -125,7 +125,7 @@ export default function Hero(){
    </div>
 
 </div>
-</div>
+
 
 {/* //second row */}
 
@@ -231,7 +231,7 @@ export default function Hero(){
 
 </div>
 </div>
-
+</div>
 
  <div className='flex-row justify-items-end items-center mx-[800px] hidden md:block'>
    <button  className='border-[1px] border-[#000000] w-[155px] h-[48px] rounded-[5px]'>View All Courses</button>
