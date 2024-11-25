@@ -50,17 +50,17 @@ export default function Hero(){
 {/* Company logos */}
 <div  className='md:w-[1280px] md:h-[228px]  md:flex justify-between hidden'>
 <div>
-  <p className='md:text-[22px] font-bold' style={{fontFamily: 'Roboto'}}><span className='block'>Trusted by 200+ companies</span> worldwide</p>
+  <p className='md:text-[20px] font-bold' style={{fontFamily: 'Roboto'}}><span className='block'>Trusted by 200+ companies</span> worldwide</p>
 
   </div>
 
    <div className=' md:flex flex-row space-x-28 hidden'>
     <Image src='/images/CoLogos/logo1/Airbnb-Logo.PNG' alt='Company Logo1' width={123.8} height={38.52}/>
-    <Image src='/images/CoLogos/logo2/Airbnb Logo.PNG' alt='Company Logo2' width={123.8} height={38.52}/>
-    <Image src='/images/CoLogos/logo3/Airbnb Logo.PNG' alt='Company Logo3' width={123.8} height={38.52}/>
-    <Image src='/images/CoLogos/logo4/Airbnb Logo.PNG' alt='Company Logo4' width={123.8} height={38.52}/>
-    <Image src='/images/CoLogos/logo5/Airbnb Logo.PNG' alt='Company Logo5' width={123.8} height={38.52}/>
-    <Image src='/images/CoLogos/logo6/Airbnb Logo.PNG' alt='Company Logo6' width={123.8} height={38.52}/>
+    <Image src='/images/CoLogos/logo2/Airbnb Logo.PNG' alt='Company Logo2' width={100.8} height={38.52}/>
+    <Image src='/images/CoLogos/logo3/Airbnb Logo.PNG' alt='Company Logo3' width={100.8} height={38.52}/>
+    <Image src='/images/CoLogos/logo4/Airbnb Logo.PNG' alt='Company Logo4' width={100.8} height={38.52}/>
+    <Image src='/images/CoLogos/logo5/Airbnb Logo.PNG' alt='Company Logo5' width={100.8} height={38.52}/>
+    <Image src='/images/CoLogos/logo6/Airbnb Logo.PNG' alt='Company Logo6' width={100.8} height={38.52}/>
 
 
    </div>
