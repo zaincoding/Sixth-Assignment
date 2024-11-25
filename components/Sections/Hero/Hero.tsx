@@ -151,7 +151,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block'>Design & development</span> 50+ Courses Available</h1>
+    <span className='block'>Communication</span> 50+ Courses Available</h1>
    </div>
 
 </div>
@@ -165,7 +165,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block'>Design & development</span> 50+ Courses Available</h1>
+    <span className='block'>Digital Marketing</span> 50+ Courses Available</h1>
    </div>
 
 </div>
@@ -179,7 +179,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block'>Design & development</span> 50+ Courses Available</h1>
+    <span className='block'>Self development</span> 50+ Courses Available</h1>
    </div>
 
 </div>
@@ -198,7 +198,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block'>Design & development</span> 50+ Courses Available</h1>
+    <span className='block'>Business</span> 50+ Courses Available</h1>
    </div>
 
 </div>
@@ -212,7 +212,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block'>Design & development</span> 50+ Courses Available</h1>
+    <span className='block'>Finance</span> 50+ Courses Available</h1>
    </div>
 
 </div>
@@ -226,7 +226,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block'>Design & development</span> 50+ Courses Available</h1>
+    <span className='block'>Consulting</span> 50+ Courses Available</h1>
    </div>
 
 </div>
