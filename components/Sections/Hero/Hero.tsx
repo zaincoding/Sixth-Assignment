@@ -33,7 +33,7 @@ export default function Hero(){
            </div> 
 
            <div   className='md:w-1/2'>    
-           <Image src='/images/Image.PNG' alt='Logo' width={428}   height={200}  
+           <Image src='/images/image.PNG' alt='main-image' width={428}   height={200}  
            className='md:w-full  md:relative'/> 
 </div>
 </div>
