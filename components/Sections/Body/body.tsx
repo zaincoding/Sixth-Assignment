@@ -13,7 +13,7 @@ export default function Body(){
 
         <div className='relative my-[40] '>
 
-<div className='mx-[100px]'>
+<div className='mx-[80px] my-[100px]'>
    <ul className="flex flex-row space-x-4">   <li className={` ${Style.circleItemB } className='mx-[30px] `}></li>
    <li className={Style.circleItem }></li>
   <li className={Style.circleItem }></li>
