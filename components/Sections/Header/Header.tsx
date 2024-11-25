@@ -33,7 +33,7 @@ export default function Header() {
 <div   className=' bg-[#FFFFFF]  width-[428px] h-[72px] flex item-center justify-between border-[1px] border-[#000000]
      py-4  px-3 md:px-20 md:bg-[rgb(247,247,247,1)] ] md:border-[1px] md:border-[#676767]'>
   
-       <Image  src='/images/logo.PNG'  alt="Logo" width={130} height={41}/>
+       <Image  src='/images/Logo.PNG'  alt="Logo" width={130} height={41}/>
  
 <div  className='text-xl  font-bold  right-0'></div>
 <button className='block md:hidden' onClick={ () =>setIsOpen(!isOpen)}>
@@ -67,7 +67,7 @@ export default function Header() {
              <span className='block'><button  className='w-[80px]  rounded-[5px] h-[40px] border-[1px] border-[#676767]
             '>Login</button></span>
             <span className='block'>
-             <button className=' w-[80] md:w-[95px] mx-[100px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
+             <button className=' w-[80] md:w-[95px] mx-[150px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
             </span>
 
 
