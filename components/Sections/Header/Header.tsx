@@ -17,7 +17,7 @@ export default function Header() {
           {/* Contact Info */}
           <div className='md:ml-[100px]'>
           <p className="flex items-center space-x-3">
-            <span>Phone: 03122979793</span>
+            <span>Phone: 742 455 678</span>
             <span className="h-[30px] w-[1px] border border-[#676767]"></span>
             <span>Email: zainmd.htm@gmail.com</span>
           </p>
