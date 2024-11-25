@@ -46,7 +46,7 @@ export default function Header() {
         </button>
 
   <nav   className={`${isOpen ? "absolute top-[72px] right-0 w-[80px]  bg-[#ece7e7]" 
-      : "hidden"} md:flex md:space-x-6 md: md:text-[22px] font-bold text-[#000000]
+      : "hidden"} md:flex md:space-x-3 md: md:text-[22px] font-bold text-[#000000]
         `} style={{fontFamily: 'Roboto'}}>
 
   <div className={`${
@@ -67,7 +67,7 @@ export default function Header() {
              <span className='block'><button  className='w-[80px]  rounded-[5px] h-[40px] border-[1px] border-[#676767]
             '>Login</button></span>
             <span className='block'>
-             <button className=' w-[80] md:w-[95px] mx-[150px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
+             <button className=' w-[80] md:w-[95px] mx-[100px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
             </span>
 
 
