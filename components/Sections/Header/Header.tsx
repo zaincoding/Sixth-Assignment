@@ -58,7 +58,7 @@ export default function Header() {
              <span className='block' ><Link href="./">Courses</Link></span>
              <span className='block'><Link href="./">Services</Link></span>
              <span className='block'><Link href="./">Achievement</Link></span>
-             <span className='block'><Link href="./">About Us</Link></span>
+             <span className='block'><Link href="./">About</Link></span>
              <span className='block'><Link href="./">Testimonial</Link></span>
 </div>
 
