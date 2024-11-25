@@ -20,7 +20,7 @@ export default function Body(){
   <li className={Style.circleItem }></li>
    <li className={Style.circleItem }></li>
    <div  className='md:space-x-[1050px] space-x-[50px] md:ml-[100px]'>
-   <p><Link href='#'><Image src='/images/buttons/Image1.PNG' alt='button-img' width={50} height={50} className='absolute md:mx-[1200px] ' /></Link></p>
+   <p><Link href='#'><Image src='/images/buttons/Image1.PNG' alt='button-img' width={50} height={50} className='absolute md:mx-[1000px] ' /></Link></p>
    <p><Link href='#'><Image src='/images/buttons/Image2.PNG' alt='button-img' width={50} height={50} className='absolute md:mx-[1200px mx-[25px]' /></Link></p>
    </div>
  </ul>
