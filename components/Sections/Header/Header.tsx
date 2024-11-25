@@ -31,7 +31,7 @@ export default function Header() {
           </div>
         </div>      
 <div   className=' bg-[#FFFFFF]  width-[428px] h-[72px] flex item-center justify-between border-[1px] border-[#000000]
-     py-4  px-3 md:px-20 md:bg-[rgb(247,247,247,1)] ] md:border-[1px] md:border-[#676767]'>
+     py-4  px-3 md:px-0 md:bg-[rgb(247,247,247,1)] ] md:border-[1px] md:border-[#676767]'>
   
        <Image  src='/images/Logo.PNG'  alt="Logo" width={130} height={41}/>
  
