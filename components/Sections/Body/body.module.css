@@ -1,0 +1,24 @@
+.circleList {
+  display: flex;
+  gap: 20px;
+}
+
+.circleItem {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9b9797;
+  border-radius: 50%;
+}
+
+.circleItemB {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #080808;
+  border-radius: 50%;
+}
