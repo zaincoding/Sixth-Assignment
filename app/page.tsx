@@ -12,7 +12,9 @@ export default function Home(){
                 </div>
 
 <div>
+    <div  className="w-[1280px]> 
     <Hero/>
+    </div>
 
 </div>
         </div>
