@@ -64,10 +64,10 @@ export default function Header() {
 
 <div className='md:flex md:items-center md:space-x-[-260px] md:justify-between md:space-y-0 space-y-3 '>
             {/* <span className='md:w-[221px] md:justify-between md:space-x-7 md:space-y-0 space-y-4'> */}
-             <span className='block'><button  className='w-[80px] mx-[-120px] rounded-[5px] h-[40px] border-[1px] border-[#676767]
-            '>Login</button></span>
-            <span className='block'>
-             <button className=' w-[80] md:w-[95px] mx-[250px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
+             <span><button  className='w-[80px] mx-[-120px] rounded-[5px] h-[40px] border-[1px] border-[#676767]
+            '>Login</button>
+            
+             <button className=' w-[80] md:w-[95px] mx-[150px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
             </span>
 
 
