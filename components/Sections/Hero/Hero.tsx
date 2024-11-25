@@ -69,6 +69,7 @@ export default function Hero(){
    
 {/* 
  //Course Category section    */}
+<div className="w-[1280]">
 <div  className="w-[428px]  h-[862px] flex flex-col justify-between items-center bg-gray-100 md:w-full">
 
 <div>
@@ -124,7 +125,7 @@ export default function Hero(){
    </div>
 
 </div>
-
+</div>
 
 {/* //second row */}
 
