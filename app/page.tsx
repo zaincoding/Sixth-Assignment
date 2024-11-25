@@ -7,8 +7,9 @@ export default function Home(){
     return(
 
         <div>
-             
-             <Header/>
+                  <div className="w-[1289px]">
+                 <Header/>
+                </div>
 
 <div>
     <Hero/>
