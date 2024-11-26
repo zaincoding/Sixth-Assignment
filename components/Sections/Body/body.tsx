@@ -40,7 +40,7 @@ export default function Body(){
   <div className="text-right mx-[300px] relative">
     <p className="font-bold border-black border-[1px] py-1 rounded-[10px] absolute"><input type='text' name='search' placeholder=' Enter Your Email'></input>
     </p> <p><button className='bg-gray-100 hover:bg-gray-200 w-[140px] absolute mx-[-120px] p-2 rounded-[10px] border-black border-[1px]'>Subscrib</button></p>
-    <p className='my-[50px]'>By subscribing you agree to with our Privacy Policy</p>
+    <p className='my-[50px] whitespace-nowrap'>By subscribing you agree to with our Privacy Policy</p>
   </div>
 </div>
 
