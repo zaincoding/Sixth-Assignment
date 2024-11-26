@@ -45,7 +45,7 @@ export default function Header() {
 </div>
         </button>
 
-  <nav   className={`${isOpen ? "absolute top-[72px] right-0 w-[80px]  bg-[#ece7e7]" 
+  <nav   className={`${isOpen ? "absolute top-[72px] right-0 w-[100px]  bg-[#a1a1a0] border-[#818080] border-[1px] rounded-2xl" 
       : "hidden"} md:flex md:space-x-6 md: md:text-[22px] font-bold text-[#000000]
         `} style={{fontFamily: 'Roboto'}}>
 
@@ -53,7 +53,6 @@ export default function Header() {
               isOpen ? "space-y-4" : "flex space-x-4"
             } md:flex md:space-x-7 md:space-y-0 md:mr-[200px]`}
           >
-
 <span className='block'><Link href="./"  >Home</Link></span>
              <span className='block' ><Link href="./">Courses</Link></span>
              <span className='block'><Link href="./">Services</Link></span>
@@ -62,12 +61,13 @@ export default function Header() {
              <span className='block'><Link href="./">Testimonial</Link></span>
 </div>
 
+
 <div className='md:flex md:items-center md:space-x-[-260px] md:justify-between md:space-y-0 space-y-3 '>
             {/* <span className='md:w-[221px] md:justify-between md:space-x-7 md:space-y-0 space-y-4'> */}
-             <span><button  className='w-[80px] mx-[-120px] rounded-[5px] h-[40px] border-[1px] border-[#676767]
+             <span><button  className='w-[80px] md:mx-[-120px] mx-[5px] bg-white rounded-[5px] h-[40px] border-[1px] border-[#676767]
             '>Login</button>
             
-             <button className=' w-[80] md:w-[95px] mx-[150px] h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
+             <button className=' w-[80px] md:w-[95px] md:mx-[150px] mx-[5px] my-[20px]  h-[40px] bg-black text-white rounded-[5px]'>Sing Up</button>
             </span>
 
 
