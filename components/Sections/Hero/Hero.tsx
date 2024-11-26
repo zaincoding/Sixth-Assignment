@@ -90,7 +90,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block font-bold whitespace-nowrap'>Design & development</span className='whitespace-nowrap'> <span>50+ Courses Available</span></h1>
+    <span className='block font-bold whitespace-nowrap'>Design & development</span><span className='whitespace-nowrap'> <span>50+ Courses Available</span></h1>
    </div>
 
 </div>
@@ -106,7 +106,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='bloc font-bold'>Marketing</span><span className='whitespace-nowrap'> 50+ Courses Available</span></h1>
+    <span className='bloc font-bold whitespace-nowrap'>Marketing</span><span className='whitespace-nowrap'> 50+ Courses Available</span></h1>
    </div>
 
 </div>
@@ -121,7 +121,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block font-bold'>Development</span><span className='whitespace-nowrap'> 50+ Courses Available</span></h1>
+    <span className='block font-bold whitespace-nowrap'>Development</span><span className='whitespace-nowrap'> 50+ Courses Available</span></h1>
    </div>
 
 </div>
