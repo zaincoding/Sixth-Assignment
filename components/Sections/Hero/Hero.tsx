@@ -90,7 +90,7 @@ export default function Hero(){
 
 <div className='mx-[60px]'>
    <h1>
-    <span className='block font-bold whitespace-nowrap'>Design & development</span><span className='whitespace-nowrap'> <span>50+ Courses Available</span></h1>
+    <span className='block font-bold whitespace-nowrap'>Design & development</span><span className='whitespace-nowrap'>50+ Courses Available</span></h1>
    </div>
 
 </div>
